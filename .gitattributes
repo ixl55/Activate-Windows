@@ -1,0 +1,3 @@
+# Batch files must keep Windows (CRLF) line endings, stored as-is
+*.cmd -text
+*.bat -text
